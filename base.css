@@ -39,4 +39,14 @@ body {
 
 input {
     margin-bottom: 10px;
+    margin-left: 10px;
+}
+.label{
+    margin-left: 10px;
+}
+#menssagem{
+    margin-bottom: 10px;
+}
+button{
+    padding: 10px;
 }
