@@ -36,3 +36,7 @@ body {
     background-color: rgb(99, 56, 240);
     min-height: 150px;
 }
+
+input {
+    margin-bottom: 10px;
+}
