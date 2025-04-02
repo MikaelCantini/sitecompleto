@@ -50,3 +50,7 @@ input {
 button{
     padding: 10px;
 }
+textarea{
+    width: 730px;
+    height: 100px;
+}
